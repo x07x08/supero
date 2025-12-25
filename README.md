@@ -23,6 +23,7 @@ Depending on the usage method, see the next steps below :
 # Considerations
 
 It might crash, not work properly or have bugs.
+This has really been tested mostly on Linux.
 
 # Compilation
 
