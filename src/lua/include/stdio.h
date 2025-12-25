@@ -1,0 +1,8 @@
+#if !defined(CLibstdio_Included)
+#define CLibstdio_Included
+
+#define SEEK_SET 0
+#define SEEK_CUR 1
+#define SEEK_END 2
+
+#endif
